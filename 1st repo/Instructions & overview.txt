@@ -1,0 +1,18 @@
+CVIM is a custom text editor type thing for CMD in Windows, it uses a .bat file for all computations.
+CVIM was made with ChatGPT and is heavily inspired by the text editor VIM.
+
+instructions:
+
+1)Copy the code from "CVIM-code.txt"
+
+2)Paste the code into a .txt file (Requested the file is named CVIM.bat)
+//Make sure it is placed on your desktop, or else it will not be able to access outside directories.
+
+3)Change the file type to .bat from .txt.
+
+4)Open CMD(Administrator is not required.)
+
+5)Type "cd Desktop" and hit Enter.
+
+6)Type "CVIM.bat" and hit Enter to start it.
+//Remember, if you didn't name your file CVIM, use what you named it. So, for example, If I named it yourfile.bat, I would have to type in CMD yourfile.bat 
