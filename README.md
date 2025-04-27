@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @morse-dev
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML, CSS, JS and Python.
-- 💞️ I’m looking to collaborate on many interesting projects.
+- 💞️ I’m looking to collaborate on many interesting projects.//I like using CHATGPT FOR .bat file projects.
+- 🤖I prefer to use AI like chatGPT but if i do i mention that i did not code it.
 - 📫 How to reach me using G-mail at mehranislam111@gmail.com.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am always determined to finish a project. 😃
